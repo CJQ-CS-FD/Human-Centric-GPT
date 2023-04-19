@@ -1,4 +1,4 @@
-# Multi-GPT: Multiple Collaborating ExpertGPTs
+# Human-Centric-GPT
 
 > ***”Individually, we are one drop. Together, we are an ocean.”*** - Ryunosuke Satoro
 >
